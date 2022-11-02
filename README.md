@@ -1,4 +1,5 @@
 # Zhigang Ji (Derek)
+<img src="https://komarev.com/ghpvc/?username=derekji&color=brightgreen" alt="watching_count" />
 
 ### Connect me over social media
 
@@ -17,12 +18,11 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=derekji&theme=react-dark&hide_border=true&area=true)
 
-![Snake animation](https://github.com/derekji/derekji/blob/output/github-contribution-snake.svg)
+<!-- ![Snake animation](https://github.com/derekji/derekji/blob/output/github-contribution-snake.svg) -->
 
 #### Github trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=derekji&theme=juicyfresh&no-bg=true" />
 
-### Profile visits
 
-<img src="https://komarev.com/ghpvc/?username=derekji&color=brightgreen" alt="watching_count" />
+
