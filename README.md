@@ -18,7 +18,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=derekji&theme=react-dark&hide_border=true&area=true)
 
-<!-- ![Snake animation](https://github.com/derekji/derekji/blob/output/github-contribution-snake.svg) -->
+![Snake animation](https://github.com/derekji/derekji/blob/output/github-contribution-snake.svg)
 
 #### Github trophy
 
