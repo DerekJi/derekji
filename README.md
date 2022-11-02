@@ -1,16 +1,28 @@
-### Hi there 👋
+# Zhigang Ji (Derek)
 
-<!--
-**DerekJi/derekji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect me over social media
 
-Here are some ideas to get you started:
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/zil_ji "Twitter") 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://www.linkedin.com/in/zhigang-ji-114004168/ "LinkedIn") 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Github Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekji&show_icons=true&theme=radical)
+
+#### Total contribution
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=derekji&theme=tokyonight" alt="mystreak"/>
+
+#### Contribution graph
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=derekji&theme=react-dark&hide_border=true&area=true)
+
+![Snake animation](https://github.com/derekji/derekji/blob/output/github-contribution-snake.svg)
+
+#### Github trophy
+
+<img src="https://github-profile-trophy.vercel.app/?username=derekji&theme=juicyfresh&no-bg=true" />
+
+### Profile visits
+
+<img src="https://komarev.com/ghpvc/?username=derekji&color=brightgreen" alt="watching_count" />
