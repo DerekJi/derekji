@@ -14,12 +14,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=derekji&theme=tokyonight" alt="mystreak"/>
 
-#### Contribution graph
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=derekji&theme=react-dark&hide_border=true&area=true)
-
-![Snake animation](https://github.com/derekji/derekji/blob/output/github-contribution-snake.svg)
-
 #### Github trophy
 
 <img src="https://github-profile-trophy.vercel.app/?username=derekji&theme=juicyfresh&no-bg=true" />
